@@ -201,3 +201,8 @@ If you have a suggestion that would make this project better, please fork the re
 This project is open-source and available under the [MIT License](LICENSE).
 
 ----
+
+## ✨ Author
+  **Ayush Raj**
+  
+  Drop a ⭐ if you liked it!
