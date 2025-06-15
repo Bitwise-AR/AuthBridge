@@ -44,11 +44,14 @@ A robust and secure **Authentication System** built using **Java Spring Boot** a
 AuthBridge/
 ├── AuthBridge_sb/
 │ ├── src/main/java/com/authbridge/
+│ │ ├── config/
 │ │ ├── controller/
-│ │ ├── model/
+│ │ ├── entity/
+│ │ ├── filter/
+│ │ ├── io/
 │ │ ├── repository/
 │ │ ├── service/
-│ │ ├── config/
+│ │ ├── util/
 │ │ └── AuthBridgeApplication.java
 │ └── resources/
 │ ├── application.properties
@@ -72,7 +75,7 @@ AuthBridge/
 
 1. Clone the repository:
 ```bash
-  git clone https://github.com/your-username/AuthBridge.git
+  git clone https://github.com/Bitwise-AR/AuthBridge.git
   cd AuthBridge/AuthBridge_sb
 ```
 
@@ -171,6 +174,11 @@ AuthBridge/
 | POST   | `/verify-otp`    | Verify OTP             |
 | GET    | `/profile`    | Read Profile      |
 | GET    | `/is-authenticated`   | Check if user is authenticated  |
+
+---
+
+## 📸 Screenshots
+  _Uploading Soon_
 
 ---
 
