@@ -22,7 +22,7 @@ A robust and secure **Authentication System** built using **Java Spring Boot** a
 ## 🛠️ Tech Stack
 
 ### Backend
-- Java 17
+- Java 24
 - Spring Boot
 - Spring Security
 - JWT Token
